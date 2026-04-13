@@ -18,6 +18,8 @@ Nhập 2 dòng namespace của cloudflare vào trong trang quản lý DNS record
 
 <img width="1608" height="833" alt="image" src="https://github.com/user-attachments/assets/8c028ca7-c0e7-4f4f-a180-27cd50d88999" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f355ce8a-f54c-42e1-8644-e7f87886f9a0" />
+
 B. Cài đặt Ubuntu + Docker
 
 Cài đặt hệ điều hành Ubuntu 24.04.4 LTS
