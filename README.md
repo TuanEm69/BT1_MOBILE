@@ -1,6 +1,6 @@
 # BT1_MOBILE
 ## Môn: Phát triển ứng dụng với mã nguồn mở-TEE0421
-##Lớp: 58KTPM
+## Lớp: 58KTPM
 
 ### Bài tập 01:
 
