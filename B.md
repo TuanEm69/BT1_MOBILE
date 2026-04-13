@@ -1,4 +1,4 @@
-### B. Cài đặt Ubuntu + Docker
+#### B. Cài đặt Ubuntu + Docker
 
 Cài đặt hệ điều hành Ubuntu 24.04.4 LTS
 
