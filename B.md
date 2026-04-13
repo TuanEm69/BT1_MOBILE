@@ -12,38 +12,6 @@ Cấu hình mạng trong Ubuntu (và công cụ giả lập) để cho phép tru
 
 <img width="1108" height="624" alt="image" src="https://github.com/user-attachments/assets/a977e50f-3e3f-459e-9a85-c05ba45498a7" />
 
-Ví dụ:
-
-để ssh tới ubuntu ở ip 192.168.100.123, user là admin thì mở CMD trên windows,
-
-gõ lệnh: ssh admin@192.168.100.123
-
-hệ thống sẽ yêu cầu nhập password (chú ý : password sẽ không hiện ra)
-
-sau khi login thành công sẽ thấy màn hình chào hỏi của ubuntu
-
-Tìm hiểu các lệnh cơ bản của ubuntu
-
-Các lệnh cần tìm hiểu:
-
-Liệt kê các file trong thư mục: ls
-
-Tạo thư mục: mkdir nameFolder
-
-Chuyển thư mục làm việc: cd path
-
-Copy file: cp file_nguồn path/file_đích
-
-Thay đổi quyền thao tác file: sudo chmod xxx filename
-
-Edit file: sudo nano tenfile
-
-CTRL+o : lưu nội dung sau khi edit
-
-CTRL+x : thoát edit file
-
-Xem ip của máy ubuntu: ip -4 addr
-
 Cài đặt docker cho Ubuntu
 
 Kiểm tra phiên bản docker vừa cài đặt, kiểm tra phiên bản của docker compose
