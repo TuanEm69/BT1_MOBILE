@@ -6,7 +6,7 @@
 
 ### deadline : 23h59 ngày 13 tháng 4 năm 2026.
 ### Link gửi bài: Tại đây
-A. Đăng ký tên miền xịn cho cá nhân:
+#### A. Đăng ký tên miền xịn cho cá nhân:
 
 Đăng ký domain xịn (có thể dùng của tenten, tên miền *.id.vn đang miễn phí cho mọi công dân việt nam <= 23 tuổi, *.io.vn : giá 30k vnđ/năm)
 
